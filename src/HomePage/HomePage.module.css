@@ -1,0 +1,28 @@
+.title {
+  font-family: "Luckiest Guy", cursive;
+  display: block;
+  transform: rotate(-90deg);
+  font-size: 50px;
+  margin-top: 58vh;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin-left: -181px;
+  white-space: nowrap;
+}
+
+.imageProp {
+  height: 100vh;
+}
+
+.colN {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  overflow: hidden;
+}
+.borderRNon {
+  border-radius: 0px;
+}
+.bgDark {
+  background-color: #151617 !important;
+  color: #573e3e;
+}
